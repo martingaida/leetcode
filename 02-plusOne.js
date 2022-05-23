@@ -30,3 +30,8 @@ const plusOne = function(digits) {
     }
     return digits
 };
+
+console.log(plusOne([9,9]))
+console.log(plusOne([1,2,3]))
+console.log(plusOne([0]))
+console.log(plusOne([9]))
